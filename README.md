@@ -93,21 +93,6 @@ Spotify API is used only to fetch metadata, not for actual music streaming.
 
 This is a hobby/demo project. Not for commercial use.
 
-
-
-📜 License
- Free for educational use.
-
-🤝 Contribution
-Pull requests and feature ideas are welcome! Let’s build cool music stuff together 🎶
-
-📫 Contact
-GitHub:github.com/ShaikMohammad786
-
-Email: skmohammad378@gmail.com
-phone :9391970347
-
-
 ---
 
 ### ✅ Final Tips
